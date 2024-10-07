@@ -38,7 +38,6 @@ body{
     border: 1px solid red;
     border-radius: 20px;
     color: red;
-    margin-bottom: 8px;
 }
 .descricao{
     white-space: pre-wrap;
